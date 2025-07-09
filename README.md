@@ -12,7 +12,7 @@ This beginner-friendly tutorial series takes you step by step through the comple
 <br>Session 7: AI Tools for Data Analytics
 
 ## Dataset
-We work with a real [Amazon sales dataset](amazon.csv) to build a professional portfolio project throughout the course. This dataset has been sourced from [kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset).
+We work with a real [Amazon sales dataset](amazon/amazon.csv) to build a professional portfolio project throughout the course. This dataset has been sourced from [kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset).
 
 You'll also need the amazon-country-data in Session 5. Download [here](amazon-country-data.txt).
 
