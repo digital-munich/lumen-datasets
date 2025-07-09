@@ -14,7 +14,7 @@ This beginner-friendly tutorial series takes you step by step through the comple
 ## Dataset
 We work with a real [Amazon sales dataset](amazon/amazon.csv) to build a professional portfolio project throughout the course. This dataset has been sourced from [kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset).
 
-You'll also need the amazon-country-data in Session 5. Download [here](amazon-country-data.txt).
+You'll also need the amazon-country-data in Session 5. Download [here](amazon/amazon-country-data.txt).
 
 ## Sign up
 You can signup for the free short course [here](https://forms.office.com/pages/responsepage.aspx?id=iTmR1JBn3EuFH1QCKDDrVILvVVua7KlDiFJOn0YzLp1URUo1MEFOOTlPR1ZWQzJGM1RaQkVTNUhWSC4u&route=shorturl).
